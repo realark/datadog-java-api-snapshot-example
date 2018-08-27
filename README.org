@@ -1,0 +1,1 @@
+Simple Example of compiling against a datadog master branch snapshot and adding a trace interceptor.
