@@ -1,0 +1,5 @@
+!**/gradle/wrapper/*
+/.gradle
+*/.gradle
+**/build/
+examples/**/build/
